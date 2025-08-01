@@ -11,29 +11,13 @@ A simple GUI-based Caesar Cipher encryption and decryption tool built using Pyth
 - Supports both uppercase and lowercase letters.
 - Ignores and retains punctuation, numbers, and spaces.
 
-## 🖼️ GUI Preview
-
-![Caesar Cipher GUI](preview.png)  <!-- Optional: Add a screenshot with this filename -->
-
 ## 📦 Requirements
 
-- Python 3.x
-- Tkinter (usually comes pre-installed with Python)
+To run this project, you need:
 
-## 🚀 How to Run
+- **Python 3.6 or higher**
+- **Tkinter** (comes pre-installed with Python on most systems)
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/psycho8976/SCT_CS_01.git
-    cd SCT_CS_01
-    ```
-
-2. Run the script:
-    ```bash
-    python caesar_cipher_gui.py
-    ```
-
-> 📝 Make sure the filename matches your Python script name (e.g., `caesar_cipher_gui.py`).
-
-## 📂 Project Structure
-
+To check if Tkinter is installed, run:
+```bash
+python -m tkinter
